@@ -15,7 +15,7 @@ What things you need to install the software.
 ### Install
 Clone the git repository on your computer
 
-$ git clone https://github.com/neoighodaro-articles/e-commerce-laravel-vue.git
+$ git clone  https://github.com/BadolJnU/Laravl-Vue-Project.git
 
 
 You can also download the entire repository as a zip file and unpack in on your computer if you do not have git
